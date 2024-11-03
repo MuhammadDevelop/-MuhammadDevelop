@@ -1,4 +1,4 @@
-# Assalomu Alaykum! 👋 I'm Muhammad
+# Hi there! 👋 I'm Muhammad
 
 Welcome to my GitHub! I'm a passionate **Front-End Developer** who loves building sleek, responsive user interfaces with modern technologies. My focus is on creating efficient, accessible, and enjoyable web experiences.
 
@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a passionate **Front-End Developer** who loves buildin
 
 ## 📬 Connect with Me
 - Telegram: [@MuhammadDevelop](https://t.me/MuhammadDevelop)
-- LinkedIn: [Your LinkedIn Profile Link](https://linkedin.com/in/your-profile)
+- LinkedIn: [Muhammad Orifjonov](https://www.linkedin.com/in/muhammad-orifjonov-7a2029322/)
 - Email: [muham20021202@gmail.com](mailto:muham20021202@gmail.com)
 
 ## 🚀 What I'm Learning
