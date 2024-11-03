@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Muhammad
+# Assalomu Alaykum! 👋 I'm Muhammad
 
 Welcome to my GitHub! I'm a passionate **Front-End Developer** who loves building sleek, responsive user interfaces with modern technologies. My focus is on creating efficient, accessible, and enjoyable web experiences.
 
