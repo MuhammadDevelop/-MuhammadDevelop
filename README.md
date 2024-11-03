@@ -1,31 +1,44 @@
-# Hi, I'm [Muhammad] 👋
+# Assalomu Alaykum! 👋 I'm Muhammad
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+Welcome to my GitHub! I'm a passionate **Front-End Developer** who loves building sleek, responsive user interfaces with modern technologies. My focus is on creating efficient, accessible, and enjoyable web experiences.
 
-- 👨‍💻 I’m a Frontend Developer.
-- 💬 Ask me about anything; I’m happy to help.
-- 🔹 Pronouns: he/him.
-- 📍 Current location: Andijan, Uzbekistan.
-- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/username) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/username) [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+## 💻 About Me
+- 🎨 I specialize in front-end technologies, with a deep focus on **React** and **JavaScript**.
+- 🚀 Constantly learning and staying up-to-date with new tools, currently diving into **TypeScript** and **Next.js**.
+- 💡 I believe in clean code, reusable components, and the power of a well-designed user interface.
+- 📍 Based in Tashkent, Uzbekistan.
 
-## Languages and Tools I work with:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?logo=ant-design&logoColor=white)
+## 🛠️ Languages and Tools
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white" alt="SCSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-## GitHub Stats
-![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![YourUsername's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iskanderovv&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iskanderovv&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+## 📬 Connect with Me
+- Telegram: [@MuhammadDevelop](https://t.me/MuhammadDevelop)
+- LinkedIn: [Your LinkedIn Profile Link](https://linkedin.com/in/your-profile)
+- Email: [muham20021202@gmail.com](mailto:muham20021202@gmail.com)
+
+## 🚀 What I'm Learning
+- **Next.js**: Enhancing my React applications with server-side rendering and static site generation.
+- **GraphQL**: Building efficient APIs to power dynamic applications.
+
+## 👨‍💻 Coding Philosophy
+I believe that the beauty of development lies in crafting interactive, performant, and visually engaging applications. My goal is to build user experiences that are not only functional but also delightful and memorable.
+
+---
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions, collaboration ideas, or just want to talk tech! 😊
